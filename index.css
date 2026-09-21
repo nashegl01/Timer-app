@@ -1,0 +1,17 @@
+form {
+    text-align: center;
+    margin-top: 100px;
+}
+section {
+    text-align: center;
+    margin-top: 50px;
+    background-color: rgb(175, 153, 153);
+}
+body {
+    background-color: #948b8b;
+    font-family: Arial, sans-serif;
+}
+p {
+    font-size: 50px;
+    color: #000000;
+}
